@@ -9,5 +9,3 @@ You just need to match ros message type.
 
 Here is the working video link: https://www.youtube.com/watch?v=ovC2AM9LdPY  
 
-![Uploading Screenshot from 2019-01-13 05-10-12.png…]() 
-
